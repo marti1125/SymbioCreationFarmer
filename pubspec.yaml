@@ -69,3 +69,6 @@ flutter:
   # see https://flutter.io/custom-fonts/#from-packages
   assets:
     - assets/farmer.png
+    - assets/fruit.png
+    - assets/natural_medicine.png
+    - assets/old.png
